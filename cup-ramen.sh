@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-echo "set timer(sec)"
+echo "input time(sec)"
 
 read time
 
